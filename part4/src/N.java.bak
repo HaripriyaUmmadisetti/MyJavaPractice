@@ -1,0 +1,22 @@
+class N
+{
+	public static void main(String[] args) 
+	{
+		if(false)
+		{
+			System.out.println("from if");
+		}
+		else if(true)
+		{
+			System.out.println("from else if 1");
+		}
+		else if(true)
+		{
+			System.out.println("from else if 2");
+		}
+		System.out.println("end of main");
+	}
+}
+/*1.we can write any number of elseif blocks for one if block.
+2.we can't write if block with out else.
+3.*/
