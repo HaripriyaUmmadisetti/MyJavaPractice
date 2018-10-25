@@ -9,4 +9,3 @@ class  C
 		
 	}
 }
-//compile time error-void cant allowed here.

@@ -1,6 +1,5 @@
 class  E
 {
-	
 	public static void test(int i){
 		System.out.println("from test :" +i);
 	}

@@ -9,3 +9,4 @@ class  E
 		test();
 	}
 }
+//compiletime error method void must have integer arugment.
